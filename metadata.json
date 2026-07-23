@@ -1,0 +1,6 @@
+{
+  "name": "KICKVAULT - Urban Footwear Store",
+  "description": "Tienda online moderna y de alto impacto de zapatillas deportivas y urbanas de marcas reconocidas como Nike, Adidas, Jordan, Puma y New Balance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
